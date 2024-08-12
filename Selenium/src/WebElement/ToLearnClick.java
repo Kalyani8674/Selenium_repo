@@ -19,6 +19,7 @@ public class ToLearnClick
 		WebElement searchButton = driver.findElement(By.xpath("//input[@value='Search'])"));
 		
 		searchButton.click();
+		searchButton.click();
 		
 	}
 
