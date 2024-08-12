@@ -17,9 +17,6 @@ public class ToLearnClickAndHold {
 		driver.get("https://yonobusiness.sbi/");
 		driver.findElement(By.partialLinkText("Login")).click();
 		driver.findElement(By.id("password")).sendKeys("test@123");
-	        driver.findElement(By.xpath(""));
-		 driver.findElement(By.xpath(""));
-		 driver.findElement(By.xpath(""));
 		
 		
 
