@@ -19,7 +19,7 @@ public class ToLearnDoubleclick {
 		WebElement addIcon=driver.findElement(By.id("add"));
 		Actions act=new Actions(driver);
 		act.doubleClick(addIcon).perform();
-		act.doubleClick(addIcon).perform();
+		
 		
 	}
 
