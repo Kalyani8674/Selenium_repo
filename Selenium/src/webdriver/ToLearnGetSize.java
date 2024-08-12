@@ -12,6 +12,8 @@ public class ToLearnGetSize {
 		System.out.println(size);
 		System.out.println(size.getHeight());
 		System.out.println(size.getWidth());
+		System.out.println(size.getHeight());
+		System.out.println(size.getWidth());
 	}
 
 }
